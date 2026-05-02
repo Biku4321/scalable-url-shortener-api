@@ -85,7 +85,8 @@ Example: GET http://localhost:3000/aB3x9Yz
 Response: 301 Permanent Redirect to the original URL.
 
 📂 Project Structure (Controller-Service Pattern)
-Plaintext
+
+```text
 backend/
 ├── src/
 │   ├── config/         # DB and Redis connection logic
